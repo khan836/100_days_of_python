@@ -1,4 +1,5 @@
-name_of_the_user = input("enter your name: ")
-len_of_the_name = len(name_of_the_user)
-print("number of characters your name has is:" + str(len_of_the_name))
-
+# print(type("1234"))
+# print(type(1234))
+# print(type(12.34))
+# print(type(True)) 
+print(("number of letters in you name:") + len(input("enter your name")))
