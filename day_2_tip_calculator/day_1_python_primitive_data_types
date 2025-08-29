@@ -1,0 +1,8 @@
+#subscripting
+print("hello world" [4])
+
+#addition of intergers
+print(234 + 3884)
+
+#string
+print( "123" + "456") 
